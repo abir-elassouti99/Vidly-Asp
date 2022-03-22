@@ -125,3 +125,5 @@ C:\Users\SQLI\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.csproj.CoreCompileInpu
 C:\Users\SQLI\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.csproj.CopyComplete
 C:\Users\SQLI\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.dll
 C:\Users\SQLI\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.pdb
+C:\Users\SQLI\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.Migrations.InitialModel.resources
+C:\Users\SQLI\source\repos\Vidly1\Vidly1\obj\Debug\Vidly1.csproj.GenerateResource.cache
